@@ -1,6 +1,6 @@
 # 💫 About Me:
-Atualmente sou estudante de Analise e Desenvolvimento de sistemas<br>Procuro estágios na área e estou em busca de oferecer meu melhor para as empresas! 
-
+Hello Word! 
+Atualmente estudante de Análise e desenvolvimento de Sistemas, buscando oportunidade de estágio ou CLT em áreas correlatas ao ambiente de Tecnologia da Informação.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/izabella-da-silva-2004ga) 

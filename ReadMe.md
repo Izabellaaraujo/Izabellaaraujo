@@ -1,4 +1,4 @@
-# Hello Word! 
+# Hello World! 
 Atualmente sou estudante de Análise e desenvolvimento de Sistemas, buscando oportunidade de estágio ou CLT em áreas correlatas ao ambiente de Tecnologia da Informação. 
 
 ## 🌐 Socials:

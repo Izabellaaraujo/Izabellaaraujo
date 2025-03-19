@@ -3,13 +3,13 @@
 💻 Aprendendo sobre a tecnologia e me apaixonando por ela! 
 
 ## 📌 Sobre mim
-- 🎯 Objetivo: Me tornar incialmente Analista de dados ou Analista/Desenvolvedora de sistemas. 
-- 📚 Atualmente aprendendo a parte: JavaScript | Me aperfeiçoando em Python, HTML e CSS | Iniciando com mais aprofundamento Power BI e SQL (saindo do básico). 
-- 🌱 Interesses: Ciência de dados | Programação Front-End | Design web 
+- Objetivo: Me tornar incialmente Analista de dados ou Analista/Desenvolvedora de sistemas. 
+- Atualmente aprendendo a parte: JavaScript | Me aperfeiçoando em Python, HTML e CSS | Iniciando com mais aprofundamento Power BI e SQL (saindo do básico). 
+- Interesses: Ciência de dados | Programação Front-End | Design web 
 
 ## 🌎 Onde me encontrar
-[![www.linkedin.com/in/izabella-da-silva-2004ga](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
-[![izabella.silvagomes.a@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/izabella-da-silva-2004ga)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izabella.silvagomes.a@gmail.com)
 
 ## 📊 Estatísticas do GitHub
 
